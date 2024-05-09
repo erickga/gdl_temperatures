@@ -42,4 +42,10 @@ This script performs several tasks related to temperature data analysis and visu
      - **Output**: Returns a list of temperature records.
 
 
-![5-Year Trend](5y%20trend%20GDL.png)
+- **Monthly Average Temperature with 5-Year Trend**
+  
+  ![Monthly Average Temperature with 5-Year Trend](Montly%20average%20and%205y%20trend%20GDL.png)
+
+- **5-Year Temperature Trend**
+
+  ![5-Year Trend](5y%20trend%20GDL.png)
