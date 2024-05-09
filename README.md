@@ -40,3 +40,6 @@ This script performs several tasks related to temperature data analysis and visu
      - **Parameters**: `year`, `month`.
      - **Functionality**: Scrapes average daily temperatures for the specified year and month.
      - **Output**: Returns a list of temperature records.
+
+
+![5-Year Trend](5y%20trend%20GDL.png)
